@@ -1,0 +1,20 @@
+{
+    "dog-person.jpg": {
+        "dog": 1,
+        "person": 1
+    }
+},{
+    "eagle.jpg": {
+        "bird": 1
+    }
+},{
+    "horses.jpg": {
+        "horse": 4
+    }
+},{
+    "person.jpg": {
+        "horse": 1,
+        "dog": 1,
+        "person": 1
+    }
+},

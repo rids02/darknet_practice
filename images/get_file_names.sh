@@ -1,0 +1,2 @@
+#!/bin/bash
+for FILE in /content/images/*; do if [[ $FILE == *.jpg ]]; then ./darknet detect cfg/yolov3.cfg yolov3.weights $FILE; cp predictions.jpg /content/results/`echo $FILE | cut -d "/" -f4`;  fi; done

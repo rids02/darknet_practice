@@ -1,0 +1,4 @@
+/content/images/person.jpg: Predicted in 20.135024 seconds.
+horse: 100%
+dog: 99%
+person: 100%
